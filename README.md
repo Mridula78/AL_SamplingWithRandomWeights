@@ -53,14 +53,3 @@ We also include ablation variants like:
 
 These can be used to analyze trade-offs between exploration and exploitation in sampling.
 
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{Mohan2025candidate,
-  title={Are Candidate Models Really Needed for Active Learning?},
-  author={Mohan, Harshini Mridula and Manjunatha, Maanya and Basha, S.H. Shabbeer and Cheekatla, Nitin},
-  journal={Computer Vision and Image Understanding},
-  year={2025}
-}
