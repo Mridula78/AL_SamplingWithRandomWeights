@@ -3,7 +3,7 @@
 This repository contains the official implementation of the paper:
 
 > **Are Candidate Models Really Needed for Active Learning?**  
-> Harshini Mridula Mohana, Maanya Manjunatha, S.H. Shabbeer Basha, Nitin Cheekatla  
+> Harshini Mridula Mohan, Maanya Manjunatha, S.H. Shabbeer Basha, Nitin Cheekatla  
 
 ## Overview
 
@@ -58,9 +58,9 @@ These can be used to analyze trade-offs between exploration and exploitation in 
 If you use this work, please cite:
 
 ```bibtex
-@article{mohana2025candidate,
+@article{Mohan2025candidate,
   title={Are Candidate Models Really Needed for Active Learning?},
-  author={Mohana, Harshini Mridula and Manjunatha, Maanya and Basha, S.H. Shabbeer and Cheekatla, Nitin},
+  author={Mohan, Harshini Mridula and Manjunatha, Maanya and Basha, S.H. Shabbeer and Cheekatla, Nitin},
   journal={Computer Vision and Image Understanding},
   year={2025}
 }
